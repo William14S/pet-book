@@ -13,6 +13,7 @@ function App() {
       <Splash/>
       <Photos/>
       <Descriptions/>
+     
     </div>
   );
 }
